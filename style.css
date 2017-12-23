@@ -1,0 +1,185 @@
+.bodydiv {
+	width: 100%;
+}
+
+.headerdiv{
+	background-color: #8600b3;
+	color: white;
+	font-size:45px;
+	height:200px;
+
+	margin: -5px;
+	border-radius: 0px;
+	font-family: verdana;
+	
+margin-top:-37px;
+width: 1320px;
+	
+}
+
+	.pheader {
+		text-align: center;
+		vertical-align: left;
+		line-height: normal;
+		margin-top: 0px;
+
+		
+	}
+	.pheader img {
+		margin-top: 90px;
+	}
+
+
+
+
+.computer{
+	width: 1300px;
+	opacity: 0.7;
+	margin: 5px;
+
+}
+.text-wrapper{
+	width: 100%;
+	position: relative;
+	margin-top: -50%;
+	
+}
+.text-wrapper h1{
+	text-align: center;
+	color: white;
+	font-size: 100px;
+}
+
+
+
+
+.footer {
+   display: inline-block;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    margin-top:250px;
+}
+
+
+
+.Persons img{
+	width: 200px;
+	height: 150px;
+}
+.Persons{
+	width: 100%;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	font-size:130%;
+}
+
+.person0 {
+	padding-top: 22px;
+	display:flex;
+	justify-content: space-around;
+	background-color: #d9b3ff;
+	width: 615px;
+	height:250px;
+	margin: 20px 10px;
+
+}
+
+.person0 p{
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+.person0 button{
+	width: 100px;
+	height:40px;
+	font-size: 28px;
+	border-radius:18px;
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+.person1 {
+	padding-top: 22px;
+	display:flex;
+	justify-content: space-around;
+	background-color: #d9b3ff;
+	width: 615px;
+	height:250px;
+	margin: 20px 10px;
+
+}
+
+.person1 p{
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+.person1 button{
+	width: 100px;
+	height: 40px;
+	font-size: 28px;
+	border-radius:18px;
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+
+.person2 {
+	padding-top: 22px;
+	display:flex;
+	justify-content: space-around;
+	background-color: #d9b3ff;
+	width: 615px;
+	height:250px;
+	margin: 20px 10px;
+
+}
+
+.person2 p{
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+.person2 button{
+	width: 100px;
+	height: 40px;
+	font-size: 28px;
+	border-radius:18px;
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+
+
+.person3 {
+	padding-top: 22px;
+	display:flex;
+	justify-content: space-around;
+	background-color: #d9b3ff;
+	width: 615px;
+	height:250px;
+	margin: 20px 10px;
+
+}
+
+.person3 p{
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+.person3 button{
+	width: 100px;
+	height: 40px;
+	font-size: 28px;
+	border-radius:18px;
+	align-self: flex-end;
+	margin-bottom: 10px;
+}
+
+#like {
+	width:50px;
+	height:50px;
+	margin: 190px 0px 0px 0px;
+}
